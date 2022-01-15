@@ -1,0 +1,81 @@
+body {
+    background-color: orange;
+}
+
+hr.blanco {
+    margin: 0px;
+    border: solid white 10px;
+    color: white;
+}
+
+h1.titulo {
+    color: white;
+    font-family: 'Sriracha', cursive;
+    text-align: center;
+    margin: 0px;
+    padding: 10px;
+}
+
+p.menu {
+    background-color: lightblue;
+    margin: 0px;
+    padding-bottom: 10px;
+}
+
+a.menu {
+    color: blue;
+    border: solid black 1px;
+}
+
+img.steve {
+    height: 160px;
+    width: 200px;
+    float: left;
+    position: relative;
+    bottom: 15px;
+}
+
+section.steve {
+    border-top: white solid 15px;
+    border-bottom: white solid 30px;
+}
+p.steve {
+    margin-top: 0px;
+    border-top: blue solid 15px;
+    border-bottom: blue solid 15px;
+    margin-bottom: 0px;
+    color: blue;
+    background-color: white;
+}
+
+section.azul {
+    background-color: lightblue;
+    border-top: lightblue solid 15px;
+    border-bottom: lightblue solid 30px;
+}
+
+p.mac {
+    border-top: red solid 15px;
+    border-bottom: red solid 15px;
+    color: red;
+}
+
+img.mac {
+    float: right;
+    height: 120px;
+    width: 140px;
+    position: relative;
+    bottom: 15px;
+}
+
+footer {
+    background-color: tomato;
+    border-top: tomato solid 15px;
+    border-bottom: tomato solid 30px;
+}
+
+ul.si {
+    list-style-type: katakana;
+    margin-left: 30px;
+    background-color: white;
+}
